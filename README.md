@@ -18,7 +18,7 @@
 
 ## Usage
 
-See the [scalajs-nodejs-quick-start](https://github.com/mscharley/scalajs-nodejs-quick-start) app.
+TODO: Write this.
 
   [gh-contrib]: https://github.com/mscharley/scalajs-nodejs/graphs/contributors
   [gh-issues]: https://github.com/mscharley/scalajs-nodejs/issues
