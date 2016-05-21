@@ -6,7 +6,7 @@ lazy val scalaJSNode = (project in file(".")).
   settings(
     organization := "com.mscharley",
     name := "scalajs-nodejs",
-    version := "0.2.0-SNAPSHOT",
+    version := "0.1.1",
     scalaVersion := "2.11.8",
 
     // Info for Sonatype.
